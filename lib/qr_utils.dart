@@ -1,4 +1,4 @@
-library qr_util;
+library qr_utils;
 
 export 'interface.dart';
 export 'unsupported.dart'
